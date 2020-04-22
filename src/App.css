@@ -1,0 +1,17 @@
+body{
+  margin:0;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  min-height:100vh;
+  text-align: center;
+}
+input {
+  padding:.25rem;
+  width:8em;
+  border:1px solid rgb(169, 169, 169);
+}
+select{
+  margin-left:.5rem;
+  padding:.25rem;
+}
